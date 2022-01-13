@@ -1,0 +1,7 @@
+[General]
+theme=Edna
+
+[Applications]
+Default=chrome
+Edna=chrome
+KvDark=google-chrome

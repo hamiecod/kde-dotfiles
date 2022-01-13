@@ -1,0 +1,88 @@
+09:11:08 PM IST.562: CPU Name: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+09:11:08 PM IST.562: CPU Speed: 2200.000MHz
+09:11:08 PM IST.562: Physical Cores: 2, Logical Cores: 4
+09:11:08 PM IST.562: Physical Memory: 7694MB Total, 759MB Free
+09:11:08 PM IST.562: Kernel Version: Linux 5.13.0-23-lowlatency
+09:11:08 PM IST.562: Distribution: "Ubuntu" "21.10"
+09:11:08 PM IST.562: Session Type: x11
+09:11:08 PM IST.562: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.13
+09:11:08 PM IST.562: Portable mode: false
+09:11:08 PM IST.741: OBS 27.1.3 (linux)
+09:11:08 PM IST.741: ---------------------------------
+09:11:08 PM IST.741: ---------------------------------
+09:11:08 PM IST.741: audio settings reset:
+09:11:08 PM IST.741: 	samples per sec: 48000
+09:11:08 PM IST.741: 	speakers:        2
+09:11:08 PM IST.755: ---------------------------------
+09:11:08 PM IST.755: Initializing OpenGL...
+09:11:08 PM IST.816: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 620 (KBL GT2)
+09:11:08 PM IST.816: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.2.2, shading language 4.60
+09:11:08 PM IST.833: ---------------------------------
+09:11:08 PM IST.833: video settings reset:
+09:11:08 PM IST.833: 	base resolution:   1920x1080
+09:11:08 PM IST.833: 	output resolution: 1920x1080
+09:11:08 PM IST.833: 	downscale filter:  Bicubic
+09:11:08 PM IST.833: 	fps:               60/1
+09:11:08 PM IST.833: 	format:            NV12
+09:11:08 PM IST.833: 	YUV mode:          709/Partial
+09:11:08 PM IST.833: NV12 texture support not available
+09:11:08 PM IST.841: Audio monitoring device:
+09:11:08 PM IST.841: 	name: Default
+09:11:08 PM IST.841: 	id: default
+09:11:08 PM IST.841: ---------------------------------
+09:11:08 PM IST.842: Failed to load 'en-US' text for module: 'decklink-captions.so'
+09:11:08 PM IST.845: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+09:11:08 PM IST.976: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+09:11:08 PM IST.976: No blackmagic support
+09:11:08 PM IST.985: [obs-browser]: Version 2.16.3
+09:11:08 PM IST.985: [obs-browser]: CEF Version 87.1.12+g03f9336+chromium-87.0.4280.88
+09:11:09 PM IST.010: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+09:11:09 PM IST.010: 
+09:11:09 PM IST.010: FFMPEG VAAPI supported
+09:11:09 PM IST.022: VLC found, VLC video source enabled
+09:11:09 PM IST.022: ---------------------------------
+09:11:09 PM IST.022:   Loaded Modules:
+09:11:09 PM IST.022:     vlc-video.so
+09:11:09 PM IST.022:     text-freetype2.so
+09:11:09 PM IST.022:     rtmp-services.so
+09:11:09 PM IST.022:     obs-x264.so
+09:11:09 PM IST.022:     obs-vst.so
+09:11:09 PM IST.022:     obs-transitions.so
+09:11:09 PM IST.022:     obs-outputs.so
+09:11:09 PM IST.022:     obs-libfdk.so
+09:11:09 PM IST.022:     obs-filters.so
+09:11:09 PM IST.022:     obs-ffmpeg.so
+09:11:09 PM IST.022:     obs-browser.so
+09:11:09 PM IST.022:     linux-v4l2.so
+09:11:09 PM IST.022:     linux-pulseaudio.so
+09:11:09 PM IST.022:     linux-jack.so
+09:11:09 PM IST.022:     linux-decklink.so
+09:11:09 PM IST.022:     linux-capture.so
+09:11:09 PM IST.022:     linux-alsa.so
+09:11:09 PM IST.022:     image-source.so
+09:11:09 PM IST.022:     frontend-tools.so
+09:11:09 PM IST.022:     decklink-ouput-ui.so
+09:11:09 PM IST.022:     decklink-captions.so
+09:11:09 PM IST.022: ---------------------------------
+09:11:09 PM IST.023: ==== Startup complete ===============================================
+09:11:09 PM IST.025: All scene data cleared
+09:11:09 PM IST.025: ------------------------------------------------
+09:11:09 PM IST.030: pulse-input: Server name: 'pulseaudio 15.0'
+09:11:09 PM IST.031: pulse-input: Audio format: float32le, 32000 Hz, 2 channels
+09:11:09 PM IST.031: pulse-input: Started recording from 'echoCancel_sink.monitor'
+09:11:09 PM IST.031: [Loaded global audio device]: 'Desktop Audio'
+09:11:09 PM IST.031: xshm-input: Geometry 1920x1080 @ 0,0
+09:11:09 PM IST.039: alsa-input: PCM 'default' rate set to 48000
+09:11:09 PM IST.039: alsa-input: PCM 'default' channels set to 2
+09:11:09 PM IST.040: Switched to scene 'monitor-1'
+09:11:09 PM IST.040: ------------------------------------------------
+09:11:09 PM IST.040: Loaded scenes:
+09:11:09 PM IST.040: - scene 'monitor-1':
+09:11:09 PM IST.040:     - source: 'primary-monitor' (xshm_input)
+09:11:09 PM IST.040:     - source: 'headphone-mic' (alsa_input_capture)
+09:11:09 PM IST.040:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+09:11:09 PM IST.040:         - filter: 'VST 2.x Plug-in' (vst_filter)
+09:11:09 PM IST.040:         - filter: 'Compressor' (compressor_filter)
+09:11:09 PM IST.040:         - filter: 'Noise Gate' (noise_gate_filter)
+09:11:09 PM IST.040: ------------------------------------------------
+09:11:15 PM IST.742: User Removed source 'headphone-mic' (alsa_input_capture) from scene 'monitor-1'

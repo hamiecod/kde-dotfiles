@@ -1,0 +1,37 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=zathura
+count=1
+
+[Session: saved at previous logout]
+clientId1=10cfd0d7d7000164186822400000015550004
+clientId2=10cfd0d7d7000164144313300000015480010
+clientId3=10cfd0d7d7000164170463400000015130034
+clientId4=10cfd0d7d7000164186856300000015550013
+clientId5=10cfd0d7d7000164187176100000015550018
+count=5
+discardCommand3[$e]=rm,$HOME/.config/session/konsole_10cfd0d7d7000164170463400000015130034_1641872539_65875
+discardCommand4[$e]=rm,$HOME/.config/session/konsole_10cfd0d7d7000164186856300000015550013_1641872539_65886
+program1=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier
+program2=/usr/bin/latte-dock
+program3=/usr/bin/konsole
+program4=/usr/bin/konsole
+program5=obs
+restartCommand1=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier,-session,10cfd0d7d7000164186822400000015550004_1641872539_64208
+restartCommand2=/usr/bin/latte-dock,-session,10cfd0d7d7000164144313300000015480010_1641872539_179377
+restartCommand3=/usr/bin/konsole,-session,10cfd0d7d7000164170463400000015130034_1641872539_65875
+restartCommand4=/usr/bin/konsole,-session,10cfd0d7d7000164186856300000015550013_1641872539_65886
+restartCommand5=obs,-session,10cfd0d7d7000164187176100000015550018_1641871763_429277
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+userId1=hamiecod
+userId2=hamiecod
+userId3=hamiecod
+userId4=hamiecod
+userId5=hamiecod

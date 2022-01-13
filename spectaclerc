@@ -1,0 +1,8 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_newConfig.upd:spectacle-new-config
+
+[GuiConfig]
+captureMode=5
+cropRegion=1929,225,90,143
+onClickChecked=true
+window-position=842,310

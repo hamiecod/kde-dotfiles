@@ -1,0 +1,24 @@
+[1]
+Active Tab Index=2
+Tab Count=3
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00@file:///home/hamiecod/Downloads/packages/icons-in-terminal/fonts\x00\x00\x00\x00\x01\x00\x00\x00Zfile:///home/hamiecod/Downloads/packages/icons-in-terminal/fonts/PowerlineExtraSymbols.otf\x00\x00\x00\x01\x00\x00\x00Zfile:///home/hamiecod/Downloads/packages/icons-in-terminal/fonts/PowerlineExtraSymbols.otf\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x06\xc4\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00(file:///home/hamiecod/Downloads/packages\x00\x00\x00\x00\x01\x00\x00\x00Efile:///home/hamiecod/Downloads/packages/Cadence-0.8.1-linux64.tar.xz\x00\x00\x00\x01\x00\x00\x00Efile:///home/hamiecod/Downloads/packages/Cadence-0.8.1-linux64.tar.xz\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 2=\x00\x00\x00\x02\x00\x00\x00\x00%file:///home/hamiecod/Downloads/books\x00\x00\x00\x00\x01\xff\xff\xff\xff\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAACmfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAyAAACmQAAAFwA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAElAAAApkAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+eDP-1 HDMI-1 Height 1741x984=713
+eDP-1 HDMI-1 Height 1920x1080=713
+eDP-1 HDMI-1 Width 1741x984=1215
+eDP-1 HDMI-1 Width 1920x1080=1215
+eDP-1 HDMI-1 Window-Maximized 1360x768=true
+eDP-1 HDMI-1 Window-Maximized 1768x999=true
+eDP-1 HDMI-1 Window-Maximized 1920x1080=true
+eDP-1 HDMI-1 XPosition 1741x984=2183
+eDP-1 HDMI-1 XPosition 1920x1080=357
+eDP-1 HDMI-1 YPosition 1741x984=159
+eDP-1 HDMI-1 YPosition 1920x1080=106

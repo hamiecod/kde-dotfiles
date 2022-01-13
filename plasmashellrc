@@ -1,0 +1,36 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcoAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAA0AAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+eDP-1 HDMI-1 Height 1920x1080=502
+eDP-1 HDMI-1 Width 1920x1080=603
+
+[FileDialogSize]
+eDP-1 HDMI-1 Height 1755x991=579
+eDP-1 HDMI-1 Width 1755x991=978
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 3][Horizontal1920]
+thickness=44
+
+[PlasmaViews][Panel 30][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 30][Horizontal1360]
+thickness=44
+
+[ScreenConnectors]
+0=eDP-1
+1=HDMI-A-1
+2=HDMI-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js

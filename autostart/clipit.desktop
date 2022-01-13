@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=GTK;GNOME;Application;Utility;
+Comment=Clipboard Manager
+Exec=clipit
+Icon=clipit-trayicon-offline
+Name=ClipIt
+Terminal=false
+Type=Application

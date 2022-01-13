@@ -1,0 +1,245 @@
+09:11:46 PM IST.421: CPU Name: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+09:11:46 PM IST.421: CPU Speed: 2420.689MHz
+09:11:46 PM IST.421: Physical Cores: 2, Logical Cores: 4
+09:11:46 PM IST.421: Physical Memory: 7694MB Total, 711MB Free
+09:11:46 PM IST.421: Kernel Version: Linux 5.13.0-23-lowlatency
+09:11:46 PM IST.421: Distribution: "Ubuntu" "21.10"
+09:11:46 PM IST.421: Session Type: x11
+09:11:46 PM IST.421: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.13
+09:11:46 PM IST.421: Portable mode: false
+09:11:46 PM IST.615: OBS 27.1.3 (linux)
+09:11:46 PM IST.615: ---------------------------------
+09:11:46 PM IST.616: ---------------------------------
+09:11:46 PM IST.616: audio settings reset:
+09:11:46 PM IST.616: 	samples per sec: 48000
+09:11:46 PM IST.616: 	speakers:        2
+09:11:46 PM IST.631: ---------------------------------
+09:11:46 PM IST.631: Initializing OpenGL...
+09:11:46 PM IST.696: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 620 (KBL GT2)
+09:11:46 PM IST.696: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.2.2, shading language 4.60
+09:11:46 PM IST.713: ---------------------------------
+09:11:46 PM IST.713: video settings reset:
+09:11:46 PM IST.713: 	base resolution:   1920x1080
+09:11:46 PM IST.713: 	output resolution: 1920x1080
+09:11:46 PM IST.713: 	downscale filter:  Bicubic
+09:11:46 PM IST.713: 	fps:               60/1
+09:11:46 PM IST.713: 	format:            NV12
+09:11:46 PM IST.713: 	YUV mode:          709/Partial
+09:11:46 PM IST.713: NV12 texture support not available
+09:11:46 PM IST.720: Audio monitoring device:
+09:11:46 PM IST.720: 	name: Default
+09:11:46 PM IST.720: 	id: default
+09:11:46 PM IST.720: ---------------------------------
+09:11:46 PM IST.722: Failed to load 'en-US' text for module: 'decklink-captions.so'
+09:11:46 PM IST.724: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+09:11:46 PM IST.872: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+09:11:46 PM IST.872: No blackmagic support
+09:11:46 PM IST.887: [obs-browser]: Version 2.16.3
+09:11:46 PM IST.887: [obs-browser]: CEF Version 87.1.12+g03f9336+chromium-87.0.4280.88
+09:11:46 PM IST.925: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+09:11:46 PM IST.925: 
+09:11:46 PM IST.925: FFMPEG VAAPI supported
+09:11:46 PM IST.943: VLC found, VLC video source enabled
+09:11:46 PM IST.943: ---------------------------------
+09:11:46 PM IST.943:   Loaded Modules:
+09:11:46 PM IST.943:     vlc-video.so
+09:11:46 PM IST.943:     text-freetype2.so
+09:11:46 PM IST.943:     rtmp-services.so
+09:11:46 PM IST.943:     obs-x264.so
+09:11:46 PM IST.943:     obs-vst.so
+09:11:46 PM IST.943:     obs-transitions.so
+09:11:46 PM IST.943:     obs-outputs.so
+09:11:46 PM IST.943:     obs-libfdk.so
+09:11:46 PM IST.943:     obs-filters.so
+09:11:46 PM IST.943:     obs-ffmpeg.so
+09:11:46 PM IST.943:     obs-browser.so
+09:11:46 PM IST.943:     linux-v4l2.so
+09:11:46 PM IST.943:     linux-pulseaudio.so
+09:11:46 PM IST.943:     linux-jack.so
+09:11:46 PM IST.943:     linux-decklink.so
+09:11:46 PM IST.943:     linux-capture.so
+09:11:46 PM IST.943:     linux-alsa.so
+09:11:46 PM IST.943:     image-source.so
+09:11:46 PM IST.943:     frontend-tools.so
+09:11:46 PM IST.943:     decklink-ouput-ui.so
+09:11:46 PM IST.943:     decklink-captions.so
+09:11:46 PM IST.943: ---------------------------------
+09:11:46 PM IST.944: ==== Startup complete ===============================================
+09:11:46 PM IST.947: All scene data cleared
+09:11:46 PM IST.947: ------------------------------------------------
+09:11:46 PM IST.958: pulse-input: Server name: 'pulseaudio 15.0'
+09:11:46 PM IST.958: pulse-input: Audio format: float32le, 32000 Hz, 2 channels
+09:11:46 PM IST.958: pulse-input: Started recording from 'echoCancel_sink.monitor'
+09:11:46 PM IST.958: [Loaded global audio device]: 'Desktop Audio'
+09:11:46 PM IST.965: alsa-input: PCM 'default' rate set to 48000
+09:11:46 PM IST.965: alsa-input: PCM 'default' channels set to 2
+09:11:46 PM IST.974: xshm-input: Geometry 1920x1080 @ 0,0
+09:11:47 PM IST.003: Switched to scene 'monitor-1'
+09:11:47 PM IST.003: ------------------------------------------------
+09:11:47 PM IST.003: Loaded scenes:
+09:11:47 PM IST.003: - scene 'monitor-1':
+09:11:47 PM IST.003:     - source: 'primary-monitor' (xshm_input)
+09:11:47 PM IST.003: ------------------------------------------------
+09:11:54 PM IST.484: alsa-input: PCM 'default' rate set to 44100
+09:11:54 PM IST.484: alsa-input: PCM 'default' channels set to 2
+09:11:54 PM IST.508: User added source 'Audio Capture Device (ALSA)' (alsa_input_capture) to scene 'monitor-1'
+09:11:55 PM IST.039: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Audio Capture Device (ALSA))
+09:11:55 PM IST.039: 
+09:12:02 PM IST.299: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+09:12:03 PM IST.302: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+09:12:05 PM IST.304: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+09:12:05 PM IST.427: alsa-input: PCM 'default' rate set to 44100
+09:12:05 PM IST.427: alsa-input: PCM 'default' channels set to 2
+09:12:43 PM IST.065: User added filter 'Compressor' (compressor_filter) to source 'Audio Capture Device (ALSA)'
+09:15:24 PM IST.243: ---------------------------------
+09:15:24 PM IST.244: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+09:15:24 PM IST.244: [x264 encoder: 'simple_h264_recording'] profile: high
+09:15:24 PM IST.247: [x264 encoder: 'simple_h264_recording'] settings:
+09:15:24 PM IST.247: 	rate_control: CRF
+09:15:24 PM IST.247: 	bitrate:      0
+09:15:24 PM IST.247: 	buffer size:  0
+09:15:24 PM IST.247: 	crf:          23
+09:15:24 PM IST.247: 	fps_num:      60
+09:15:24 PM IST.247: 	fps_den:      1
+09:15:24 PM IST.247: 	width:        1920
+09:15:24 PM IST.247: 	height:       1080
+09:15:24 PM IST.247: 	keyint:       250
+09:15:24 PM IST.247: 
+09:15:24 PM IST.287: libfdk_aac encoder created
+09:15:24 PM IST.287: libfdk_aac bitrate: 192, channels: 2
+09:15:24 PM IST.315: ==== Recording Start ===============================================
+09:15:24 PM IST.315: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/hamiecod/Videos/obs/2022-01-12 21-15-24.mkv'...
+09:15:59 PM IST.063: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/hamiecod/Videos/obs/2022-01-12 21-15-24.mkv' stopped
+09:15:59 PM IST.063: Output 'simple_file_output': stopping
+09:15:59 PM IST.064: Output 'simple_file_output': Total frames output: 2054
+09:15:59 PM IST.064: Output 'simple_file_output': Total drawn frames: 1441 (2085 attempted)
+09:15:59 PM IST.064: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 644 (30.9%)
+09:15:59 PM IST.064: ==== Recording Stop ================================================
+09:15:59 PM IST.083: Video stopped, number of skipped frames due to encoding lag: 16/2085 (0.8%)
+09:15:59 PM IST.146: libfdk_aac encoder destroyed
+09:16:06 PM IST.386: ---------------------------------
+09:16:06 PM IST.386: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+09:16:06 PM IST.386: [x264 encoder: 'simple_h264_recording'] profile: high
+09:16:06 PM IST.386: [x264 encoder: 'simple_h264_recording'] settings:
+09:16:06 PM IST.386: 	rate_control: CRF
+09:16:06 PM IST.386: 	bitrate:      0
+09:16:06 PM IST.386: 	buffer size:  0
+09:16:06 PM IST.386: 	crf:          23
+09:16:06 PM IST.386: 	fps_num:      60
+09:16:06 PM IST.386: 	fps_den:      1
+09:16:06 PM IST.386: 	width:        1920
+09:16:06 PM IST.386: 	height:       1080
+09:16:06 PM IST.386: 	keyint:       250
+09:16:06 PM IST.386: 
+09:16:06 PM IST.393: libfdk_aac encoder created
+09:16:06 PM IST.394: libfdk_aac bitrate: 192, channels: 2
+09:16:06 PM IST.410: ==== Recording Start ===============================================
+09:16:06 PM IST.410: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/hamiecod/Videos/obs/2022-01-12 21-16-06.mkv'...
+09:16:22 PM IST.021: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/hamiecod/Videos/obs/2022-01-12 21-16-06.mkv' stopped
+09:16:22 PM IST.021: Output 'simple_file_output': stopping
+09:16:22 PM IST.021: Output 'simple_file_output': Total frames output: 911
+09:16:22 PM IST.021: Output 'simple_file_output': Total drawn frames: 665 (937 attempted)
+09:16:22 PM IST.021: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 272 (29.0%)
+09:16:22 PM IST.021: ==== Recording Stop ================================================
+09:16:22 PM IST.027: Video stopped, number of skipped frames due to encoding lag: 2/935 (0.2%)
+09:16:22 PM IST.048: libfdk_aac encoder destroyed
+09:16:24 PM IST.066: Error uninhibiting: Timeout was reached
+09:16:27 PM IST.485: ---------------------------------
+09:16:27 PM IST.485: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+09:16:27 PM IST.485: [x264 encoder: 'simple_h264_recording'] profile: high
+09:16:27 PM IST.486: [x264 encoder: 'simple_h264_recording'] settings:
+09:16:27 PM IST.486: 	rate_control: CRF
+09:16:27 PM IST.486: 	bitrate:      0
+09:16:27 PM IST.486: 	buffer size:  0
+09:16:27 PM IST.486: 	crf:          23
+09:16:27 PM IST.486: 	fps_num:      60
+09:16:27 PM IST.486: 	fps_den:      1
+09:16:27 PM IST.486: 	width:        1920
+09:16:27 PM IST.486: 	height:       1080
+09:16:27 PM IST.486: 	keyint:       250
+09:16:27 PM IST.486: 
+09:16:27 PM IST.491: libfdk_aac encoder created
+09:16:27 PM IST.491: libfdk_aac bitrate: 192, channels: 2
+09:16:27 PM IST.503: ==== Recording Start ===============================================
+09:16:27 PM IST.503: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/hamiecod/Videos/obs/2022-01-12 21-16-27.mkv'...
+09:16:47 PM IST.023: Error uninhibiting: Timeout was reached
+09:21:28 PM IST.701: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Audio Capture Device (ALSA))
+09:21:28 PM IST.701: 
+09:27:50 PM IST.059: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/hamiecod/Videos/obs/2022-01-12 21-16-27.mkv' stopped
+09:27:50 PM IST.059: Output 'simple_file_output': stopping
+09:27:50 PM IST.059: Output 'simple_file_output': Total frames output: 40657
+09:27:50 PM IST.059: Output 'simple_file_output': Total drawn frames: 26584 (40954 attempted)
+09:27:50 PM IST.059: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 14370 (35.1%)
+09:27:50 PM IST.059: ==== Recording Stop ================================================
+09:27:50 PM IST.070: Video stopped, number of skipped frames due to encoding lag: 7912/40952 (19.3%)
+09:27:50 PM IST.119: libfdk_aac encoder destroyed
+09:28:15 PM IST.061: Error uninhibiting: Timeout was reached
+09:32:41 PM IST.066: User removed filter 'Compressor' (compressor_filter) from source 'Audio Capture Device (ALSA)'
+09:33:16 PM IST.003: pulse-input: Server name: 'pulseaudio 15.0'
+09:33:16 PM IST.006: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+09:33:16 PM IST.006: pulse-input: Started recording from 'alsa_input.hw_0_0'
+09:33:16 PM IST.024: Settings changed (audio)
+09:33:16 PM IST.024: ------------------------------------------------
+09:34:16 PM IST.319: pulse-am: Prevented feedback-loop in 'default'
+09:34:16 PM IST.319: User changed audio monitoring for source 'Desktop Audio' to: monitor and output
+09:34:50 PM IST.210: User added filter 'VST 2.x Plug-in' (vst_filter) to source 'Audio Capture Device (ALSA)'
+09:34:57 PM IST.864: User removed filter 'VST 2.x Plug-in' (vst_filter) from source 'Audio Capture Device (ALSA)'
+09:35:01 PM IST.574: User added filter 'Noise Suppression' (noise_suppress_filter_v2) to source 'Audio Capture Device (ALSA)'
+09:38:33 PM IST.113: User added filter 'Expander' (expander_filter) to source 'Audio Capture Device (ALSA)'
+09:39:10 PM IST.985: ---------------------------------
+09:39:10 PM IST.985: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+09:39:10 PM IST.985: [x264 encoder: 'simple_h264_recording'] profile: high
+09:39:10 PM IST.985: [x264 encoder: 'simple_h264_recording'] settings:
+09:39:10 PM IST.985: 	rate_control: CRF
+09:39:10 PM IST.985: 	bitrate:      0
+09:39:10 PM IST.985: 	buffer size:  0
+09:39:10 PM IST.985: 	crf:          23
+09:39:10 PM IST.985: 	fps_num:      60
+09:39:10 PM IST.985: 	fps_den:      1
+09:39:10 PM IST.985: 	width:        1920
+09:39:10 PM IST.985: 	height:       1080
+09:39:10 PM IST.985: 	keyint:       250
+09:39:10 PM IST.985: 
+09:39:10 PM IST.988: libfdk_aac encoder created
+09:39:10 PM IST.988: libfdk_aac bitrate: 192, channels: 2
+09:39:11 PM IST.009: ==== Recording Start ===============================================
+09:39:11 PM IST.009: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/hamiecod/Videos/obs/2022-01-12 21-39-10.mkv'...
+09:40:15 PM IST.561: adding 21 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Audio Capture Device (ALSA))
+09:40:15 PM IST.561: 
+09:43:40 PM IST.339: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/hamiecod/Videos/obs/2022-01-12 21-39-10.mkv' stopped
+09:43:40 PM IST.339: Output 'simple_file_output': stopping
+09:43:40 PM IST.339: Output 'simple_file_output': Total frames output: 15973
+09:43:40 PM IST.339: Output 'simple_file_output': Total drawn frames: 11149 (16161 attempted)
+09:43:40 PM IST.339: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 5012 (31.0%)
+09:43:40 PM IST.339: ==== Recording Stop ================================================
+09:43:40 PM IST.342: Video stopped, number of skipped frames due to encoding lag: 2190/16158 (13.6%)
+09:43:40 PM IST.361: libfdk_aac encoder destroyed
+09:43:42 PM IST.957: ---------------------------------
+09:43:42 PM IST.957: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+09:43:42 PM IST.957: [x264 encoder: 'simple_h264_recording'] profile: high
+09:43:42 PM IST.957: [x264 encoder: 'simple_h264_recording'] settings:
+09:43:42 PM IST.957: 	rate_control: CRF
+09:43:42 PM IST.957: 	bitrate:      0
+09:43:42 PM IST.957: 	buffer size:  0
+09:43:42 PM IST.957: 	crf:          23
+09:43:42 PM IST.957: 	fps_num:      60
+09:43:42 PM IST.957: 	fps_den:      1
+09:43:42 PM IST.957: 	width:        1920
+09:43:42 PM IST.957: 	height:       1080
+09:43:42 PM IST.957: 	keyint:       250
+09:43:42 PM IST.957: 
+09:43:42 PM IST.963: libfdk_aac encoder created
+09:43:42 PM IST.963: libfdk_aac bitrate: 192, channels: 2
+09:43:42 PM IST.985: ==== Recording Start ===============================================
+09:43:42 PM IST.985: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/hamiecod/Videos/obs/2022-01-12 21-43-42.mkv'...
+09:44:05 PM IST.341: Error uninhibiting: Timeout was reached
+09:53:53 PM IST.873: adding 21 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Audio Capture Device (ALSA))
+09:53:53 PM IST.873: 
+09:57:22 PM IST.272: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/hamiecod/Videos/obs/2022-01-12 21-43-42.mkv' stopped
+09:57:22 PM IST.272: Output 'simple_file_output': stopping
+09:57:22 PM IST.273: Output 'simple_file_output': Total frames output: 48341
+09:57:22 PM IST.273: Output 'simple_file_output': Total drawn frames: 31362 (49157 attempted)
+09:57:22 PM IST.273: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 17795 (36.2%)
+09:57:22 PM IST.275: ==== Recording Stop ================================================
+09:57:22 PM IST.424: Video stopped, number of skipped frames due to encoding lag: 15295/48407 (31.6%)
+09:57:22 PM IST.451: libfdk_aac encoder destroyed

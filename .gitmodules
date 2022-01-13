@@ -1,0 +1,6 @@
+[submodule "Neovim-config"]
+	path = Neovim-config
+	url = https://github.com/hamiecod/Neovim-config
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/hamiecod/Neovim-config

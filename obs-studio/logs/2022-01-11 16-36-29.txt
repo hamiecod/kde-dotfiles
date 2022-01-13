@@ -1,0 +1,83 @@
+04:36:29 PM IST.480: CPU Name: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+04:36:29 PM IST.480: CPU Speed: 1914.435MHz
+04:36:29 PM IST.480: Physical Cores: 2, Logical Cores: 4
+04:36:29 PM IST.480: Physical Memory: 7694MB Total, 3044MB Free
+04:36:29 PM IST.480: Kernel Version: Linux 5.13.0-23-lowlatency
+04:36:29 PM IST.480: Distribution: "Ubuntu" "21.10"
+04:36:29 PM IST.480: Session Type: x11
+04:36:29 PM IST.480: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.13
+04:36:29 PM IST.481: Portable mode: false
+04:36:29 PM IST.637: OBS 27.1.3 (linux)
+04:36:29 PM IST.637: ---------------------------------
+04:36:29 PM IST.638: ---------------------------------
+04:36:29 PM IST.638: audio settings reset:
+04:36:29 PM IST.638: 	samples per sec: 48000
+04:36:29 PM IST.638: 	speakers:        2
+04:36:29 PM IST.647: ---------------------------------
+04:36:29 PM IST.647: Initializing OpenGL...
+04:36:29 PM IST.702: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 620 (KBL GT2)
+04:36:29 PM IST.702: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.2.2, shading language 4.60
+04:36:29 PM IST.716: ---------------------------------
+04:36:29 PM IST.716: video settings reset:
+04:36:29 PM IST.716: 	base resolution:   1920x1080
+04:36:29 PM IST.716: 	output resolution: 1920x1080
+04:36:29 PM IST.716: 	downscale filter:  Bicubic
+04:36:29 PM IST.716: 	fps:               60/1
+04:36:29 PM IST.716: 	format:            NV12
+04:36:29 PM IST.716: 	YUV mode:          709/Partial
+04:36:29 PM IST.717: NV12 texture support not available
+04:36:29 PM IST.723: Audio monitoring device:
+04:36:29 PM IST.723: 	name: Default
+04:36:29 PM IST.723: 	id: default
+04:36:29 PM IST.723: ---------------------------------
+04:36:29 PM IST.724: Failed to load 'en-US' text for module: 'decklink-captions.so'
+04:36:29 PM IST.727: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+04:36:29 PM IST.840: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+04:36:29 PM IST.840: No blackmagic support
+04:36:29 PM IST.851: [obs-browser]: Version 2.16.3
+04:36:29 PM IST.851: [obs-browser]: CEF Version 87.1.12+g03f9336+chromium-87.0.4280.88
+04:36:29 PM IST.882: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+04:36:29 PM IST.882: 
+04:36:29 PM IST.882: FFMPEG VAAPI supported
+04:36:29 PM IST.897: VLC found, VLC video source enabled
+04:36:29 PM IST.897: ---------------------------------
+04:36:29 PM IST.897:   Loaded Modules:
+04:36:29 PM IST.897:     vlc-video.so
+04:36:29 PM IST.897:     text-freetype2.so
+04:36:29 PM IST.897:     rtmp-services.so
+04:36:29 PM IST.897:     obs-x264.so
+04:36:29 PM IST.897:     obs-vst.so
+04:36:29 PM IST.897:     obs-transitions.so
+04:36:29 PM IST.897:     obs-outputs.so
+04:36:29 PM IST.897:     obs-libfdk.so
+04:36:29 PM IST.897:     obs-filters.so
+04:36:29 PM IST.897:     obs-ffmpeg.so
+04:36:29 PM IST.897:     obs-browser.so
+04:36:29 PM IST.897:     linux-v4l2.so
+04:36:29 PM IST.897:     linux-pulseaudio.so
+04:36:29 PM IST.897:     linux-jack.so
+04:36:29 PM IST.897:     linux-decklink.so
+04:36:29 PM IST.897:     linux-capture.so
+04:36:29 PM IST.897:     linux-alsa.so
+04:36:29 PM IST.897:     image-source.so
+04:36:29 PM IST.897:     frontend-tools.so
+04:36:29 PM IST.897:     decklink-ouput-ui.so
+04:36:29 PM IST.897:     decklink-captions.so
+04:36:29 PM IST.897: ---------------------------------
+04:36:29 PM IST.898: ==== Startup complete ===============================================
+04:36:29 PM IST.901: All scene data cleared
+04:36:29 PM IST.901: ------------------------------------------------
+04:36:29 PM IST.907: pulse-input: Server name: 'pulseaudio 15.0'
+04:36:29 PM IST.907: pulse-input: Audio format: float32le, 32000 Hz, 2 channels
+04:36:29 PM IST.907: pulse-input: Started recording from 'echoCancel_sink.monitor'
+04:36:29 PM IST.907: [Loaded global audio device]: 'Desktop Audio'
+04:36:29 PM IST.911: alsa-input: PCM 'default' rate set to 44100
+04:36:29 PM IST.911: alsa-input: PCM 'default' channels set to 2
+04:36:29 PM IST.912: xshm-input: Geometry 1920x1080 @ 0,0
+04:36:29 PM IST.918: Switched to scene 'monitor-1'
+04:36:29 PM IST.918: ------------------------------------------------
+04:36:29 PM IST.918: Loaded scenes:
+04:36:29 PM IST.918: - scene 'monitor-1':
+04:36:29 PM IST.918:     - source: 'Screen Capture (XSHM)' (xshm_input)
+04:36:29 PM IST.918:     - source: 'Audio Capture Device (ALSA)' (alsa_input_capture)
+04:36:29 PM IST.918: ------------------------------------------------
